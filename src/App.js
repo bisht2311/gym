@@ -1,7 +1,7 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import { Box } from "@mui/material";
-
+//asd
 import "./App.css";
 import ExerciseDetail from "./pages/ExerciseDetail";
 import Home from "./pages/Home";
